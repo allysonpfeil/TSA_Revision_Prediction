@@ -11,8 +11,7 @@ Models that preliminarily would/should be considered:
   - Decision Tree
   - Random Forest
   - Support Vector Machines
-  - K-Nearest Neighbors
   - Neural Network
   - Gradient Boosting
 
-Realistically, I will probably experiment with all these algorithms in the pursuit of answering the proposed research question. Based on prior experience, research, etc., I hypothesize the best model will likely be Gradient Boosting, Decision Tree, or the Random Forest. But, I think it will be beneficial to write code that will initialize each model and score them so as to give inexperienced developers valuable resources.
+
