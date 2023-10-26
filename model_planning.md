@@ -14,4 +14,4 @@ Models that preliminarily would/should be considered:
   - Neural Network
   - Gradient Boosting
 
-
+So far, I have written a grid search that will rank the models based on accuracy.
