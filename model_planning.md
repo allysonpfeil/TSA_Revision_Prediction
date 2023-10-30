@@ -14,4 +14,4 @@ Models that preliminarily would/should be considered:
   - Neural Network
   - Gradient Boosting
 
-So far, I have written a grid search that will rank the models based on accuracy.
+So far, I have written a grid search that will rank the models based on accuracy. However, a comparison between accuracy results and AUC ROC will likely be needed. By considering both, we will be choosing the most effective model for the specific problem.
